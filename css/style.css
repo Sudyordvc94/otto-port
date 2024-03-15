@@ -1630,3 +1630,7 @@ a:focus {
         padding: 0 5px;
     }
 }
+
+body {
+    cursor: url('/img/favicon-32x32.png'), auto;
+}
