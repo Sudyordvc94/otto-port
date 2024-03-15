@@ -173,14 +173,14 @@ a:focus {
     .navbar {
         position: absolute;
         width: 100%;
-        padding: 30px 60px;
+        padding: 15px 30px;
         background: transparent !important;
         border-bottom: 1px dashed rgba(256, 256, 256, .2);
         z-index: 9;
     }
     
     .navbar.nav-sticky {
-        padding: 10px 60px;
+        padding: 10px 30px;
         background: #ffffff !important;
     }
     
@@ -222,7 +222,7 @@ a:focus {
 
 @media (max-width: 991.98px) {   
     .navbar {
-        padding: 15px;
+        padding: 5px;
         background: #ffffff !important;
     }
     
