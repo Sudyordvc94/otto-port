@@ -5,6 +5,7 @@ body {
     color: #797979;
     background: #ffffff;
     font-family: 'Noto Sans Thai', sans-serif;
+    cursor: url('/img/favicon-32x32.png'), auto;
 }
 
 h1,
@@ -1631,6 +1632,6 @@ a:focus {
     }
 }
 
-body {
-    cursor: url('/img/favicon-32x32.png'), auto;
-}
+
+
+
